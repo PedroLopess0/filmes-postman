@@ -1,0 +1,41 @@
+------------POST-----------
+http://127.0.0.1:5000/Filme
+---------------------------
+
+Body - raw - JSON
+
+{
+  "titulo": "o poderoso chefao",
+  "genero": "drama",
+  "diretor": "francis ford coppola"
+  "ano de lancamento": 1972
+  "duraçao": 175 minutos
+}
+{
+  "titulo": "origem",
+  "genero": "ficcao cientifica",
+  "diretor": "Christopher Nolan"
+  "ano de lancamento": 2010,
+  "duracao": 148 minutos
+}
+{
+  "titulo": "parasita",
+  "genero": "drama",
+  "diretor": "bong joon-ho"
+  "ano de lancamento": 2019
+  "duracao": 132 minutos
+}
+{
+  "titulo": "homen aranha no aranhaverso",
+  "genero": "animacao",
+  "diretor": "bob persichetti"
+  "ano de lamcamento": 2018
+  "duracao": 117 minutos
+}
+{
+  "titulo": "matrix",
+  "genero": "ficcao cientifica",
+  "diretor": "lana wachowski"
+  "ano de lamcamento": 1999
+  "duracao": 136
+}
